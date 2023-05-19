@@ -1,0 +1,9 @@
+* trivial-types
+
+Trivial type definitions for Common Lisp.
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/m2ym/trivial-types.git |
+| commit  | ee869f2                                       |
+| systems | trivial-types                                 |
+|---------+-----------------------------------------------|
