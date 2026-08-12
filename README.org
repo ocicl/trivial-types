@@ -7,4 +7,4 @@ Trivial type definitions for Common Lisp.
 | commit  | ee869f2                                       |
 | systems | trivial-types                                 |
 |---------+-----------------------------------------------|
- 
+  
